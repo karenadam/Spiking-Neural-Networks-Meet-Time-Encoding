@@ -1,0 +1,122 @@
+%% Creator: Inkscape 1.0.1 (c497b03c, 2020-09-10), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'single_layer_spikes_vs_examples.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{360bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.6)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.14093968,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.18970793,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.2384762,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.28724444,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}4\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.33601269,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}5\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.38478097,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}6\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.4335492,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}7\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.48231748,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}8\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.53108571,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}9\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.57985399,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}10\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.62862222,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}11\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.67739046,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}12\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.72615874,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}13\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.77492701,0.07600433){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}14\end{tabular}}}}%
+    \put(0.45793334,0.03800956){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Duration of Exposure\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.53597184){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}9\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.48558912){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}8\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.43520641){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}7\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.38482369){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}6\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.33444097){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}5\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.28405826){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}4\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.23367554){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}3\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.18329283){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.0913342,0.13291011){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}}%
+    \put(0.05333941,0.34327778){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Num Examples\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.8841,0.14926524){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10−7\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.8841,0.20439454){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10−6\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.8841,0.25952383){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10−5\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.8841,0.31465312){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10−4\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.8841,0.36978241){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10−3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.8841,0.42491171){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10−2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.8841,0.480041){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10−1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{single_layer_spikes_vs_examples.pdf}}%
+    \put(0.8841,0.53517029){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}100\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{single_layer_spikes_vs_examples.pdf}}%
+  \end{picture}%
+\endgroup%

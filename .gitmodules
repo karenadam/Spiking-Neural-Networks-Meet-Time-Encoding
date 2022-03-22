@@ -1,0 +1,3 @@
+[submodule "Multi-Channel-Time-Encoding"]
+	path = Multi-Channel-Time-Encoding
+	url = git@github.com:karenadam/Multi-Channel-Time-Encoding.git
